@@ -1373,13 +1373,13 @@ body {
   display: none;
 }
 .cid-qKcxYT317J .navbar {
-  background: #605483;
+  background: #60557e;
   transition: none;
   min-height: 77px;
   padding: .5rem 0;
 }
 .cid-qKcxYT317J .navbar-dropdown.bg-color.transparent.opened {
-  background: #605483;
+  background: #60557e;
 }
 .cid-qKcxYT317J a {
   font-style: normal;
@@ -1463,7 +1463,7 @@ body {
   padding-bottom: 0;
 }
 .cid-qKcxYT317J .dropdown .dropdown-menu {
-  background: #605483;
+  background: #60557e;
   display: none;
   position: absolute;
   min-width: 5rem;
@@ -1534,7 +1534,7 @@ body {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #7882c1;
+  background-color: #f9b2b2;
 }
 .cid-qKcxYT317J button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -1759,7 +1759,7 @@ body {
 }
 .cid-qKcxYT317J .nav-link:hover,
 .cid-qKcxYT317J .dropdown-item:hover {
-  color: #7882c1 !important;
+  color: #ff4318 !important;
 }
 .cid-qKe13VfbXh {
   background-image: url("../../../assets/images/collage-2000x1414.jpg");
